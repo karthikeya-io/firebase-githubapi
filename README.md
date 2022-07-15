@@ -1,3 +1,7 @@
+# Github api and firebase authentication
+
+This a practice app for getting users data from github api build using firebase authentication
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
